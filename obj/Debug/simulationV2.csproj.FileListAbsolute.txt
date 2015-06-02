@@ -1,0 +1,6 @@
+C:\Repos\simulation\simulationV2\simulationV2\bin\Debug\simulationV2.exe.config
+C:\Repos\simulation\simulationV2\simulationV2\obj\Debug\simulationV2.csprojResolveAssemblyReference.cache
+C:\Repos\simulation\simulationV2\simulationV2\bin\Debug\simulationV2.exe
+C:\Repos\simulation\simulationV2\simulationV2\bin\Debug\simulationV2.pdb
+C:\Repos\simulation\simulationV2\simulationV2\obj\Debug\simulationV2.exe
+C:\Repos\simulation\simulationV2\simulationV2\obj\Debug\simulationV2.pdb
